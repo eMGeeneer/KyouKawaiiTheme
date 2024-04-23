@@ -19,7 +19,7 @@
 	},
 	"simple_colors": {
         	"background": 0,
-		"background_secondaru": 203588240
+		"background_secondary": 203588240
 	},
 	"colors": {
 		"dim_foreground_material_light": -16777216,
