@@ -18,6 +18,7 @@
         	"whitney_semibold": "https:\/\/github.com\/eMGeeneer\/KyouKawaiiTheme\/raw\/main\/NotoSans-SemiBold.ttf"
 	},
 	"simple_colors": {
-        	"background": 0
+        	"background": 0,
+		"background_secondaru": 203588240
 	},
 }
