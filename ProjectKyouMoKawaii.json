@@ -18,7 +18,6 @@
         	"whitney_semibold": "https:\/\/github.com\/eMGeeneer\/KyouKawaiiTheme\/raw\/main\/NotoSans-SemiBold.ttf"
 	},
 	"simple_colors": {
-        	"input_background": -13224106,
-        	"active_channel": -13224106
+        	"background": 0
 	},
 }
