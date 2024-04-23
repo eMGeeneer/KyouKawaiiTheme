@@ -3,18 +3,18 @@
 		"version": "1.0",
 		"author": "destitution",
 		"name": "KyouMoKawaii",
-		"updater": ""
+		"updater": "https:\/\/github.com\/eMGeeneer\/KyouKawaiiTheme\/edit\/main\/ProjectKyouMoKawaii.json"
 	},
 	"background": {
 		"blur_radius": 2,
-		"url": "https://imgur.com/a/4cXh8Zq"
+		"url": "https:\/\/imgur.com\/a\/4cXh8Zq"
 	},
 	"fonts": {
-        "ginto_bold": "",
-        "ginto_medium": "",
-        "ginto_regular": "",
-        "whitney_bold": "",
-        "whitney_medium": "",
-        "whitney_semibold": ""
+        "ginto_bold": "https:\/\/github.com\/eMGeeneer\/KyouKawaiiTheme\/blob\/main\/NotoSans-Bold.ttf",
+        "ginto_medium": "https:\/\/github.com\/eMGeeneer\/KyouKawaiiTheme\/blob\/main\/NotoSans-Medium.ttf",
+        "ginto_regular": "https:\/\/github.com\/eMGeeneer\/KyouKawaiiTheme\/blob\/main\/NotoSans-Regular.ttf",
+        "whitney_bold": "https:\/\/github.com\/eMGeeneer\/KyouKawaiiTheme\/blob\/main\/NotoSans-Bold.ttf",
+        "whitney_medium": "https:\/\/github.com\/eMGeeneer\/KyouKawaiiTheme\/blob\/main\/NotoSans-Medium.ttf",
+        "whitney_semibold": "https:\/\/github.com\/eMGeeneer\/KyouKawaiiTheme\/blob\/main\/NotoSans-SemiBold.ttf"
     },
 }
