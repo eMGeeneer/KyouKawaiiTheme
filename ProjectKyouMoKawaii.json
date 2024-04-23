@@ -3,7 +3,7 @@
 		"version": "1.0",
 		"author": "destitution",
 		"name": "KyouMoKawaii",
-		"updater": "https:\/\/github.com\/eMGeeneer\/KyouKawaiiTheme\/raw\/main\/ProjectKyouMoKawaii.json"
+		"updater": "https:\/\/github.com\/eMGeeneer\/KyouMoKawaiiTheme\/raw\/main\/ProjectKyouMoKawaii.json"
 	},
 	"background": {
 		"blur_radius": 2,
@@ -21,4 +21,13 @@
         	"background": 0,
 		"background_secondaru": 203588240
 	},
+	"colors": {
+		"dim_foreground_material_light": -16777216,
+		"primary_300": -16777216,
+		"primary_630": -671088640,
+		"primary_600": -1375731713,
+		"primary_700": -1862270976,
+		"primary_dark_600": 452984832,
+		"primary_dark_800": 1543503872
+	}
 }
