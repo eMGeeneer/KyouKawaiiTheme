@@ -10,11 +10,11 @@
 		"url": "https:\/\/imgur.com\/a\/4cXh8Zq"
 	},
 	"fonts": {
-        "ginto_bold": "https:\/\/github.com\/eMGeeneer\/KyouKawaiiTheme\/blob\/main\/NotoSans-Bold.ttf",
-        "ginto_medium": "https:\/\/github.com\/eMGeeneer\/KyouKawaiiTheme\/blob\/main\/NotoSans-Medium.ttf",
-        "ginto_regular": "https:\/\/github.com\/eMGeeneer\/KyouKawaiiTheme\/blob\/main\/NotoSans-Regular.ttf",
-        "whitney_bold": "https:\/\/github.com\/eMGeeneer\/KyouKawaiiTheme\/blob\/main\/NotoSans-Bold.ttf",
-        "whitney_medium": "https:\/\/github.com\/eMGeeneer\/KyouKawaiiTheme\/blob\/main\/NotoSans-Medium.ttf",
-        "whitney_semibold": "https:\/\/github.com\/eMGeeneer\/KyouKawaiiTheme\/blob\/main\/NotoSans-SemiBold.ttf"
-    },
+        	"ginto_bold": "https:\/\/github.com\/eMGeeneer\/KyouKawaiiTheme\/blob\/main\/NotoSans-Bold.ttf",
+        	"ginto_medium": "https:\/\/github.com\/eMGeeneer\/KyouKawaiiTheme\/blob\/main\/NotoSans-Medium.ttf",
+        	"ginto_regular": "https:\/\/github.com\/eMGeeneer\/KyouKawaiiTheme\/blob\/main\/NotoSans-Regular.ttf",
+        	"whitney_bold": "https:\/\/github.com\/eMGeeneer\/KyouKawaiiTheme\/blob\/main\/NotoSans-Bold.ttf",
+        	"whitney_medium": "https:\/\/github.com\/eMGeeneer\/KyouKawaiiTheme\/blob\/main\/NotoSans-Medium.ttf",
+        	"whitney_semibold": "https:\/\/github.com\/eMGeeneer\/KyouKawaiiTheme\/blob\/main\/NotoSans-SemiBold.ttf"
+	}
 }
